@@ -1,6 +1,6 @@
 program RungeKuttaUltraKurz
 
-  !PROGRAMM: RUNGE-KUTTA-4TER-ORDNUNG
+  !PROGRAMM: RUNGE-KUTTA-4TER-ORDNUNG (Numerik)
 
   implicit none   
 
